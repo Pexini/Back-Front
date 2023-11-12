@@ -1,0 +1,3 @@
+rootProject.name = 'BackAndFront'
+include 'artifacts'
+
